@@ -137,6 +137,7 @@ increment = (id) => {
     
 }
 
+
 decrement = (id) => {
     let tempCart = [...this.state.cart];
     //getting the specific product selected thru the id passed-in
